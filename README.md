@@ -68,22 +68,7 @@ This will create a `dist` folder with your production-ready files.
 - Add/remove projects in the projects section
 - Update the `public` folder with your own images and assets
 
-## 📄 Project Structure
 
-```
-portfolio/
-├── public/             # Static files
-├── src/
-│   ├── components/     # Reusable components
-│   ├── pages/          # Page components
-│   ├── styles/         # Global styles
-│   ├── App.jsx         # Main App component
-│   └── main.jsx        # Entry point
-├── .gitignore
-├── index.html
-├── package.json
-├── README.md
-└── vite.config.js
 ```
 
 ## 📝 License
